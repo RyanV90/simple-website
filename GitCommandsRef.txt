@@ -1,5 +1,6 @@
 # tells git who you are
 $ git config --global user.name "Your Name"
+#change
 
 # tells git how to email you
 $ git config --global user.email "your.email@domain.com"
