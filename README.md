@@ -1,5 +1,10 @@
 Phonetic Alphabet Website
 
+All information in this README taken from the following book:
+
+Vormittag, R. (2016). A practical guide to Git and GitHub for Windows users:
+From beginner to expert in easy step-by-step exercises. (n.p.). https://usermanual.wiki/Pdf/A20practical20guide20to20Git202620GitHub.1242881337. 
+
 # tells git who you are
 $ git config --global user.name "Your Name"
 
