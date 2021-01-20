@@ -81,3 +81,22 @@ $ git revert <commit> --no-edit
 $ git tag -a <tag> <commit> -m <comment>
 
 
+# move or rename a file
+# and stage
+$ git mv <source> <destination>
+
+# delete a file and stage
+$ git rm <file>
+
+# create a branch
+$ git branch <branch name>
+
+# switch to another branch
+$ git checkout <branch name>
+
+# merge from branch
+$ git merge <branch name>
+
+# tag the last commit
+$ git tag <version>
+
