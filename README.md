@@ -100,3 +100,25 @@ $ git merge <branch name>
 # tag the last commit
 $ git tag <version>
 
+# add a new remote
+# identified by upstream
+$ git remote add upstream <URL>
+
+# lists both local and
+# remote tracking branches
+$ git branch -a
+$ git branch --all
+
+# list remotes with URL
+$ git remote -v
+$ git remote --verbose
+
+# fetch the latest commits from remote
+# identified by upstream
+$ git fetch upstream
+
+# update local master from remote
+# identified by upstream
+$ git checkout master
+$ git merge upstream/master
+
